@@ -9,7 +9,7 @@
     "morgan": "^1.9.1",
     "ara-persian-cal": "^1.1.1",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-async-errors": "^3.1.1",
     "jsonwebtoken": "^8.5.1",
     "linq": "^3.2.1",
